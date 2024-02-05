@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijaymurugan!
 - 👀 I’m interested in Coding,Movies,Travelling
-- 🌱 I’m currently learning Javascript and Ruby
+- 🌱 I’m currently learning Javascript and DSA
 - 💞️ I’m looking to collaborate on projects exploring various new domains 
 - 📫 How to reach me : Instagram - @V1jayy_
 - 😄 Pronouns: He/Him
